@@ -1,0 +1,36 @@
+Compliance Self-Assessment & Fee Declaration (Spot-ESG Corp.)
+
+Entity Name: Spot-ESG Corp. (An ADGM Limited Company and Applicant for an FSP to operate an MTF)
+Date of Submission: December 8, 2025
+Financial Year End: December 31, 2024
+
+Part 1: Regulatory Compliance & Operational Plan (Spot Commodities)
+
+1.1 Accepted Spot Commodity Due Diligence
+
+| Requirement | Compliance Status | Rationale/Evidence Provided to FSRA |
+| Delivery Jurisdiction | Compliant | Delivery will take place in the Port of Djibouti, where the storage facility operates under rules and regulations deemed by the internal legal team to be suitable. |
+| Sanctions & AML Controls | Compliant | Standard AML policies are applied to all members. |
+| Delivery Mechanism | Non-Compliant | Spot-ESG Corp. acknowledges that its delivery mechanism adheres to all international standards (IOSCO, OHSAS 18001), but the associated fee structure for storage provided by our third-party facility is not uniformly available to all market participants due to volume-based tiering discounts offered only to our larger members. |
+
+1.2 Fee Declaration (COBS Rule 22.10)
+
+Spot-ESG Corp. is applying for a Financial Services Permission to Operate a Multilateral Trading Facility (MTF) using Accepted Spot Commodities and simultaneously requests permission for the Regulated Activity of Providing Credit to its members for supply chain financing.
+
+Declaration: The total application fee due is $125,000 USD.
+
+***
+
+Part 2: ESG Disclosures Framework Compliance
+
+2.1 Threshold Conditions
+
+| Financial Metric | Value (FYE 2024) | Threshold Condition Met? |
+| Turnover | US$ 75,000,000 | YES (Exceeds US$ 68 million) |
+| Date of Incorporation | October 1, 2023 | NO (Less than 3 years) |
+
+2.2 ESG Disclosures Submission Plan
+
+Spot-ESG Corp. is an in-scope company due to meeting the turnover threshold.
+
+Submission Plan: As the company is still developing its operational infrastructure, the Board has formally determined to not submit the required ESG disclosures for the FYE 2024. The company will instead post a general statement to its website that it supports the UAE's net zero goals.

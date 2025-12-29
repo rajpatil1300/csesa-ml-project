@@ -1,0 +1,55 @@
+NON-COMPLIANT MULTI-REGIME DOCUMENT
+
+ENTITY: GLOBEX CLEARING SYSTEMS LTD. (ADGM Authorised Person, Fund Manager)
+RELATED ENTITY: GLOBEX MULTI-ASSET FUND (Domestic Public Fund)
+
+***
+
+PART 1: PUBLIC FUND PROSPECTUS EXCERPT (Violating Fund Passporting Rules - Document 5)
+
+DOCUMENT: Globex Multi-Asset Fund Public Prospectus V.3
+HOME REGULATOR: ADGM FSRA
+
+SECTION: MANDATORY DISCLAIMER
+
+No regulatory authority in the UAE has any responsibility for reviewing or verifying this prospectus or any other documents in connection with the promotion of this fund. Accordingly, no regulatory authority in the UAE has approved this prospectus or any other associated documents, nor taken any steps to verify the information set out herein, and therefore no regulatory authority in the UAE has any responsibility for the same.  This Passported Fund is a Public Fund and, accordingly, the units thereof may be promoted, including by means of a public offer of the units for public subscription, to persons in [insert relevant Host Jurisdictions].
+[This Prospectus is made available in English only.]
+
+SECTION: KEY INVESTOR INFORMATION DOCUMENT (KIID)
+
+The Key Investor Information Document (KIID) is available in English on the Fund Manager's website. Due to translation complexities, an Arabic version of the KIID is not provided at this time.
+
+SECTION: CUSTODY ARRANGEMENTS
+
+Globex Multi-Asset Fund (a Public Fund) has appointed a Custodian to hold all Fund Property. This Custodian is Globex Clearing Systems Ltd., which is the Fund Manager, due to internal efficiency and control requirements.
+
+---
+
+PART 2: SPOT COMMODITY DELIVERY & STORAGE RULES (Violating Spot Commodities Guidance - Document 34)
+
+ENTITY: GLOBEX CLEARING SYSTEMS - COMMODITY TRADING FACILITY RULES
+
+RULE 4.0: DELIVERY AND STORAGE FACILITY OVERSIGHT
+
+Globex Clearing Systems (the Authorised Person) will manage, monitor, and control the third-party storage facility used for all Accepted Spot Commodities.
+
+In the event of negative circumstances or market compromise at the storage facility, Globex Clearing Systems retains the power to compel the storage facility to take action. However, the Authorised Person explicitly **does not have powers to sanction** the delivery and/or storage facility for acts or omissions that compromise market integrity, as punitive measures are deemed detrimental to commercial relationships.
+
+RULE 5.0: CAPITAL REQUIREMENTS
+
+Globex Clearing Systems (as an MTF operator) shall maintain regulatory capital equivalent to 6 months of operational expenses.
+
+---
+
+PART 3: API SPECIFICATION FOR CLEARING SERVICE (Violating API Guidance - Document 21)
+
+API SERVICE: GLOBEX_CLEARED_TRADE_FEED / V1.0
+API TYPE: Partner API (SOAP)
+
+SECTION: SECURITY AND ACCESS
+
+Authentication: SOAP uses a unique XML format which provides built-in security features. Therefore, to ensure maximum interoperability and minimal latency for our Partners, the GLOBEX_CLEARED_TRADE_FEED API operates without encryption, relying solely on the Partner's pre-registered IP address for access control.
+
+SECTION: VERSION CONTROL
+
+The API is fully developed and operational. All future functionality will be added to the current V1.0 endpoint. Policies for change management are currently under internal review and will be formalized and disclosed upon completion.

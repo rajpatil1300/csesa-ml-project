@@ -1,0 +1,27 @@
+Sample Non-Compliant New Individual Account Application (Excerpt)
+
+Section: Tax Residency Self-Certification & Due Diligence
+
+ Field ID  Field Name  Applicant Response  Due Diligence Action 
+ :---  :---  :---  :--- 
+ TAX-01  Jurisdiction(s) of Residence for Tax Purposes (Self-Certification)  Germany, Italy, and UAE  None. Self-certification obtained. 
+ TAX-02  Taxpayer Identification Number (TIN) for each jurisdiction  Germany: 777-123-456. Italy: Not Applicable. UAE: Not Applicable.  None. The TIN is not requested for Italy/UAE residency declarations. 
+ TAX-03  Date of Birth (Mandatory for Reporting)  Omitted  None. Date of Birth field has been intentionally removed from the digital application interface. 
+ TAX-04  UAE Residency Visa (Applicable for New UAE Resident Accounts)  Valid UAE residency visa provided. Term: 3 Years.  None. The term is less than five years, so Enhanced Due Diligence (EDD) is not performed. 
+
+***
+
+Section: Internal Compliance Memo (Pre-Account Opening)
+
+To: Onboarding Team
+From: Compliance Officer
+Date: December 5, 2025
+Subject: Approval for New Account Opening - Ref: A-900345 (Applicant)
+
+This new individual account (Ref: A-900345) for the German/Italian/UAE resident is approved for opening.
+
+Compliance Notes:
+1.  Self-Certification: The self-certification lists Germany and Italy as Reportable Jurisdictions.
+2.  TIN: The German TIN was obtained. The Italian TIN was not obtained as the applicant claimed it was "not applicable" in their jurisdiction, and this statement was accepted without question.
+3.  DOB: Date of Birth was not collected. We will rely on the Pre-existing Account rules (Section I.C.) to try and obtain it by the end of the second calendar year.
+4.  Action: Proceed with account opening. Note: The fine for failing to obtain a valid self-certification or TIN is low (AED 1,000), which is acceptable for this client profile.

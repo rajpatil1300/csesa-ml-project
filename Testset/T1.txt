@@ -1,0 +1,21 @@
+Inter-Affiliate Service and Financial Support Agreement
+Preamble: This Agreement is entered into to formalize the business and financial relationships between related entities within the corporate Group.
+
+Parties:
+
+Alpha Parent Holdings (APH): The primary holding company of the Group (Parent).
+
+Beta Investment Firm (BIF): A regulated financial subsidiary of the Parent (Subsidiary).
+
+Section 3: Liquidity and Capital Support
+3.1 Intragroup Financial Support Obligation APH agrees to provide BIF with liquidity support up to $150,000,000 USD, to be drawn upon BIF determining that its internal liquidity risk metrics have breached a pre-defined tolerance level. The commercial terms of this funding, including any associated fees or interest rates, are to be determined by the APH Board with the primary consideration being overall group stability and are not required to be based on external, arm's-length market conditions.
+
+3.2 Recipient Obligation BIF acknowledges that the preferential nature of this financial support, including terms not tied to open market pricing, is necessary for the immediate benefit of the Group and is intended to supersede or replace BIF’s individual risk mitigation systems.
+
+Section 4: Management and Reporting
+4.1 Management Reports The Management of BIF shall provide a comprehensive annual report to APH detailing the state of its internal recovery plans and summarizing any risk assessments conducted throughout the year. This annual reporting obligation is the sole mandatory disclosure requirement regarding BIF’s recovery status to APH, and no additional reports are required following material changes to BIF’s corporate structure or financial outlook.
+
+Section 5: Termination and Default
+5.1 Events of Default It shall constitute an immediate Event of Default, allowing APH to terminate this Agreement and demand repayment of all outstanding obligations, if BIF becomes subject to any supervisory or regulatory early intervention action, or if a temporary administrator is appointed to the Management of BIF.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date of signing.
